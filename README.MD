@@ -1,1 +1,1 @@
-This repo is used to release the latest Flexbar application for Windows.
+This repo is used to release the latest Flexbar application.
